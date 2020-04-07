@@ -19,6 +19,16 @@ namespace NuGetDownloaderTest
            
         }
 
+
+        [Test]
+        public void Test2()
+        {
+            Console.WriteLine("Hello !!");
+
+        }
+
+
+
         [TearDown]
         public void Finish()
         {
