@@ -23,11 +23,16 @@ namespace NuGetDownloaderTest
         [Test]
         public void Test2()
         {
-            Console.WriteLine("Hello !!");
+            Console.WriteLine("Hello Test 2!!");
 
         }
 
+        [Test]
+        public void Test3()
+        {
+            Console.WriteLine("Hello Hello Test 3!!");
 
+        }
 
         [TearDown]
         public void Finish()
