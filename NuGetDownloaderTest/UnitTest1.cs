@@ -30,7 +30,7 @@ namespace NuGetDownloaderTest
         [Test]
         public void Test3()
         {
-            Console.WriteLine("Hello Hello Test 3!!");
+            Console.WriteLine("Hello Hello Test 3!");
 
         }
 
